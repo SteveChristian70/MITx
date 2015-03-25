@@ -1,2 +1,0 @@
-# Coderbyte
-Coderbyte Python Challenges 
